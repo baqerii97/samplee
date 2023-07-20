@@ -1,0 +1,36 @@
+div.prdar{
+    width: 90%;
+    height: 430px;
+    background-color: blueviolet;
+    margin: 150px auto;
+}
+div.prdar>div.f1{
+    display: inline-block;
+    width: 30%;
+    height: 410px;
+    background-color: rgb(231, 231, 18);
+    margin-left: 10px;
+margin-top: 10px;
+}
+div.prdar>div.f2{
+    display: inline-block;
+    width: 30%;
+    height: 410px;
+    background-color: rgb(231, 231, 18);
+    margin-left: 10px;
+
+}
+div.prdar>div.f3{
+    display: inline-block;
+}
+div.prdar>div.f3>img.w{
+    margin-bottom: 65px;
+    margin-left: 270px;
+}
+div.prdar>div.f3>img{
+    margin-bottom: 35px;
+    margin-left: 100px;
+}
+div.prdar>div.f3>p{
+    margin-left: 100px;
+}
